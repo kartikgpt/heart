@@ -70,7 +70,7 @@ def ml():
 	st.header("Give Your Input")
  
 
-	col1, col2 = st.columns(2)
+	col1, col2 = st.beta_columns(2)
 
 	with col1:
 		age = st.number_input("Enter your Age", 29, 80, 54)

@@ -115,7 +115,7 @@ def ml():
 
 		#st.write(result)
 
-	with st.expander("Prediction Results"):
+	with st.beta_expander("Prediction Results"):
 
 		input = np.array(result).reshape(1,-1)
 		#st.write(input)

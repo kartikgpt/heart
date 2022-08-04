@@ -28,3 +28,5 @@ streamlit run app.py
 
 ## Data Source
 - https://archive.ics.uci.edu/ml/datasets/heart+disease
+
+## Access this web app at: https://kartikgpt-heart-app-31xz0c.streamlitapp.com/

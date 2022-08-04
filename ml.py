@@ -92,7 +92,7 @@ def ml():
 	thalassemia = st.selectbox("Your Thalassemia type", ["normal", "fixed defect", "reversable defect"])
 
 
-	with st.expander("Your selected options"):
+	with st.beta_expander("Your selected options"):
 		so = {"age":age,
 		"sex":sex, "chest_pain_type":chest_pain_type, "resting_blood_pressure":resting_blood_pressure,
 		"cholestrol":cholestrol, "fasting_blood_sugar":fasting_blood_sugar, "rest_ecg":rest_ecg,

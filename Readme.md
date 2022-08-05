@@ -1,8 +1,7 @@
 ### Heart Disease Prediction App
 
 #### Description
-+ Machine Learning based app which help collects the basic information from the user and predicts the outcome whether you have a heart disease or not. 
-
++ Machine Learning based app which helps collects the basic information from the user and predicts the outcome whether you have heart disease or not.
 
 #### Running the App
 + cd into app

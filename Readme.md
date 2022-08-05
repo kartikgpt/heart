@@ -1,7 +1,7 @@
 ### Heart Disease Prediction App
 
 #### Description
-+ This is an app which help collects the basic information from the user and predicts the outcome whether you have a heart disease or not. This app also contains visualization charts which was visualized with the past data of other patients.
++ Machine Learning based app which help collects the basic information from the user and predicts the outcome whether you have a heart disease or not. 
 
 
 #### Running the App
@@ -12,9 +12,7 @@
 streamlit run app.py
 ```
 
-
-### Basic Requirements
-#### For Python ML Web Apps
+#### For Python ML Web App
 + Streamlit
 + Scikit-learn
 + Pandas
@@ -29,4 +27,4 @@ streamlit run app.py
 ## Data Source
 - https://archive.ics.uci.edu/ml/datasets/heart+disease
 
-## Access this web app at: https://kartikgpt-heart-app-31xz0c.streamlitapp.com/
+ Access this web app at: https://kartikgpt-heart-app-31xz0c.streamlitapp.com/
